@@ -1,1 +1,1 @@
-# smoke-cpyton-2
+# smoke-cpython-2
